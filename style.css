@@ -1,0 +1,13 @@
+button{
+	background-color: yellowgreen;
+	width: 100px;
+	height: 50px;
+	text-transform: uppercase;
+
+}
+#ya{
+	position: absolute;
+}
+#else{
+	margin-left: 120px;
+}
