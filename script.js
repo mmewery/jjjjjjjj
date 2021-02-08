@@ -1,6 +1,3 @@
-
-
-
 let width=window.innerWidth -100;
 let height=window.innerHeight -50;
 function run(){
